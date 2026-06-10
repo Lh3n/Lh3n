@@ -1,5 +1,3 @@
-## Luiz Henrique
-
 # 💫 About Me:
 Computer Science Undergraduate<br>Interested in Backend Development and Software Engineering<br>C | Python | Java | Assembly | SQL<br>Looking for internship opportunities<br>I currently use Git and GitHub for version control<br>in academic and personal projects, deepening my knowledge of collaborative workflows.
 
